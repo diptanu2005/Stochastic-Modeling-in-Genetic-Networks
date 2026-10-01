@@ -1,2 +1,2 @@
 # Stochastic-Modeling-in-Genetic-Networks
-This repository contains the description and code to simulate a theoretical model used to model a gene regulatory network with a feedback loop as a continuous-time Markov Process.
+This repository contains the description and code to simulate a theoretical model used to model a gene regulatory network with a feedback loop as a continuous-time Markov Process. The given codes are for getting the steady-state probability distribution of protein-copy number (for both analytical and stochastic simulation), and the mean first-passage time.
